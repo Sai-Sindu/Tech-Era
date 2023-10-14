@@ -1,0 +1,9 @@
+.header-card {
+  background-color: #f1f5f9;
+  padding: 10px 10px 10px 40px;
+}
+
+.image-logo {
+  height: 40px;
+  cursor: pointer;
+}
